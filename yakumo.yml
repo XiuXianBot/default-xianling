@@ -1,0 +1,18 @@
+- id: am8r7l
+  name: yakumo
+  config:
+    pipeline:
+      build:
+        - tsc
+        - esbuild
+        - client
+      clean:
+        - tsc --clean
+- id: kedvxy
+  name: yakumo-esbuild
+- id: gh7kul
+  name: yakumo-tsc
+- id: dmhqvd
+  name: '@koishijs/client/lib'
+- id: 3fsskl
+  name: yakumo/run

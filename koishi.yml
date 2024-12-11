@@ -1,0 +1,80 @@
+plugins:
+  group:server:
+    server:l42u3y:
+      port: 5140
+      maxPort: 5149
+      host: 0.0.0.0
+    ~server-satori:f6xl4o: {}
+    ~server-temp:c186li: {}
+  group:basic:
+    ~admin:61i1jj: {}
+    ~bind:zgslfg: {}
+    commands:pst95b: {}
+    help:p89pmy: {}
+    http:ch85bh: {}
+    ~inspect:vjob22: {}
+    locales:fm00uz: {}
+    proxy-agent:h0h0v1: {}
+    rate-limit:qyooly: {}
+    telemetry:6ng36r: {}
+  group:console:
+    actions:o6rb25: {}
+    analytics:utuykz: {}
+    android:654dai:
+      $if: env.KOISHI_AGENT?.includes('Android')
+    ~auth:7g93v6: {}
+    config:1xiq18: {}
+    console:fxs563:
+      open: true
+    dataview:dxa7kc: {}
+    desktop:e3x1xi:
+      $if: env.KOISHI_AGENT?.includes('Desktop')
+    explorer:i3bfyf: {}
+    logger:i6a82c: {}
+    insight:fsr2ne: {}
+    market:p2dzp6:
+      search:
+        endpoint: https://koi.xianlingbot.com/index.json
+        timeout: 300000
+    notifier:pck37c: {}
+    oobe:4clx4z: {}
+    sandbox:o28p0e: {}
+    hmr:3kd0j2:
+      root: .
+    status:rpe202: {}
+    theme-vanilla:sx289z: {}
+  group:storage:
+    ~database-mongo:gu462q:
+      database: koishi
+    ~database-mysql:9pt9xi:
+      database: koishi
+    ~database-postgres:4n730f:
+      database: koishi
+    database-sqlite:ewplc4:
+      path: data/koishi.db
+    assets-local:v2eeps: {}
+  group:adapter:
+    ~adapter-dingtalk:763jdf: {}
+    ~adapter-discord:8wd0n8: {}
+    ~adapter-kook:ez1r82: {}
+    ~adapter-lark:f5k63y: {}
+    ~adapter-line:a52r3l: {}
+    ~adapter-mail:0cw12f: {}
+    ~adapter-matrix:zi2wqz: {}
+    ~adapter-satori:mth4gw: {}
+    ~adapter-slack:6rh88p: {}
+    ~adapter-telegram:8lcqj0: {}
+    ~adapter-wechat-official:dh2x4d: {}
+    ~adapter-wecom:eju2b4: {}
+    ~adapter-whatsapp:jvxn8s: {}
+    ~adapter-zulip:x67s7y: {}
+  group:wykrkq:
+    xianling-bot:utbtxt: {}
+    smmcat-localstorage:58wz1y: {}
+    $label: xianlingbot
+    puppeteer:h8bxs1: {}
+    word-core:tbhvjz: {}
+  group:unbqbg:
+    $label: QQ
+  ~adapter-onebot:b6thw6: {}
+  ~adapter-qq:535pp6: {}
