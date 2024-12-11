@@ -21,7 +21,7 @@ jobs:
             --password-stdin
       - name: Run buildx and push
         env:
-          DOCKER_REPO: koishijs/koishi
+          DOCKER_REPO: failure2006/xianlingbot
           GITHUB_REPO: ${{ github.repository }}
         run: |
           TAG=$(curl "https://api.github.com/repos/${GITHUB_REPO}/releases/latest" | jq -r '.tag_name')
