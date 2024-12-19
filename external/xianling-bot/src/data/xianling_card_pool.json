@@ -1,0 +1,462 @@
+[
+    {
+        "id": 1,
+        "name": "虚无本源",
+        "type": "无上",
+        "description": "五大力量本源之一。",
+        "effects": "提升260%闭关加成，100%闭关时间加成，200%护甲加持。",
+        "shut_in_bonus": 3.6,
+        "Gai_per_second": 2.0,
+        "probability": 0.001
+    },
+    {
+        "id": 2,
+        "name": "不灭本源",
+        "type": "无上",
+        "description": "五大力量本源之一。",
+        "effects": "提升260%闭关加成，100%闭关时间加成，200%护甲加持。",
+        "shut_in_bonus": 3.6,
+        "Gai_per_second": 2.0,
+        "probability": 0.001
+    },
+    {
+        "id": 3,
+        "name": "创生本源",
+        "type": "无上",
+        "description": "五大力量本源之一。",
+        "effects": "提升260%闭关加成，100%闭关时间加成，200%护甲加持。",
+        "shut_in_bonus": 3.6,
+        "Gai_per_second": 2.0,
+        "probability": 0.001
+    },
+    {
+        "id": 4,
+        "name": "毁灭本源",
+        "type": "无上",
+        "description": "五大力量本源之一。",
+        "effects": "提升260%闭关加成，100%闭关时间加成，200%护甲加持。",
+        "shut_in_bonus": 3.6,
+        "Gai_per_second": 2.0,
+        "probability": 0.001
+    },
+    {
+        "id": 5,
+        "name": "灵魂本源",
+        "type": "无上",
+        "description": "五大力量本源之一.",
+        "effects": "提升260%闭关加成，100%闭关时间加成，200%护甲加持。",
+        "shut_in_bonus": 3.6,
+        "Gai_per_second": 2.0,
+        "probability": 0.001
+    },
+    {
+        "id": 1001,
+        "name": "凝汐仙灵",
+        "type": "道",
+        "description": "月华轻凝，潮汐荡漾，掌控水韵之道",
+        "effects": "提升180%闭关加成，50%闭关时间加成，200%护甲加持。",
+        "shut_in_bonus": 2.8,
+        "Gai_per_second": 1.5,
+        "probability": 0.01
+    },
+    {
+        "id": 1002,
+        "name": "永恒仙灵",
+        "type": "道",
+        "description": "万物的起源，一切的终点。",
+        "effects": "提升180%闭关加成，50%闭关时间加成，200%护甲加持。",
+        "shut_in_bonus": 2.8,
+        "Gai_per_second": 1.5,
+        "probability": 0.01
+    },
+    {
+        "id": 1003,
+        "name": "主宰仙灵",
+        "type": "道",
+        "description": "绝对主宰，翻覆乾坤，法则归一",
+        "effects": "提升180%闭关加成，50%闭关时间加成，200%护甲加持。",
+        "shut_in_bonus": 2.8,
+        "Gai_per_second": 1.5,
+        "probability": 0.01
+    },
+    {
+        "id": 1004,
+        "name": "墟界仙灵",
+        "type": "源极",
+        "description": "世间的时间都由我来分配!",
+        "effects": "提升180%闭关加成，150%护甲加持。",
+        "shut_in_bonus": 2.8,
+        "Gai_per_second": 1,
+        "probability": 0.01
+    },
+    {
+        "id": 1008,
+        "name": "造化仙灵",
+        "type": "源极",
+        "description": "一念生万物，一念毁万界",
+        "effects": "提升180%闭关加成，150%护甲加持。",
+        "shut_in_bonus": 2.8,
+        "Gai_per_second": 1,
+        "probability": 0.01
+    },
+    {
+        "id": 1009,
+        "name": "破灭仙灵",
+        "type": "源极",
+        "description": "风起云涌，终结一切生机",
+        "effects": "提升180%闭关加成，150%护甲加持。",
+        "shut_in_bonus": 2.8,
+        "Gai_per_second": 1,
+        "probability": 0.01
+    },
+    {
+        "id": 1005,
+        "name": "未来仙灵",
+        "type": "源",
+        "description": "准备投射，展现出一切的可能与不可能。",
+        "effects": "提升150%闭关加成，100%护甲加持。",
+        "shut_in_bonus": 2.5,
+        "Gai_per_second": 1,
+        "probability": 0.02
+    },
+    {
+        "id": 1006,
+        "name": "合欢仙灵",
+        "type": "源",
+        "description": "无合不欢，无欢不合夜夜越有机",
+        "effects": "提升150%闭关加成，100%护甲加持。",
+        "shut_in_bonus": 2.5,
+        "Gai_per_second": 1,
+        "probability": 0.02
+    },
+    {
+        "id": 1007,
+        "name": "元素仙灵",
+        "type": "源",
+        "description": "诸般元素，皆为万物根源",
+       "effects": "提升150%闭关加成，100%护甲加持。",
+        "shut_in_bonus": 2.5,
+        "Gai_per_second": 1,
+        "probability": 0.02
+    },
+    {
+        "id": 1010,
+        "name": "轮回仙灵",
+        "type": "源",
+        "description": "生死交替，宿命轮回不息",
+       "effects": "提升150%闭关加成，100%护甲加持。",
+        "shut_in_bonus": 2.5,
+        "Gai_per_second": 1,
+        "probability": 0.02
+    },
+    {
+        "id": 1011,
+        "name": "星辰仙灵",
+        "type": "源",
+        "description": "星宿摧残，轨迹有我掌控",
+       "effects": "提升150%闭关加成，100%护甲加持。",
+        "shut_in_bonus": 2.5,
+        "Gai_per_second": 1,
+        "probability": 0.02
+    },
+    {
+        "id": 1012,
+        "name": "魂梦仙灵",
+        "type": "根极",
+        "description": "灵魂之力，似梦似幻无形",
+        "effects": "提升120%闭关加成，100%护甲加持。",
+        "shut_in_bonus": 2.2,
+        "Gai_per_second": 1,
+        "probability": 0.05
+    },
+    {
+        "id": 1013,
+        "name": "玄根仙灵",
+        "type": "根极",
+        "description": "蕴藏深邃，万象皆有根基",
+       "effects": "提升120%闭关加成，100%护甲加持。",
+        "shut_in_bonus": 2.2,
+        "Gai_per_second": 1,
+        "probability": 0.05
+    },
+    {
+        "id": 1014,
+        "name": "本源仙灵",
+        "type": "根极",
+        "description": "本源无形，真理根植万象",
+       "effects": "提升120%闭关加成，100%护甲加持。",
+        "shut_in_bonus": 2.2,
+        "Gai_per_second": 1,
+        "probability": 0.05
+    },
+    {
+        "id": 1015,
+        "name": "冥河仙灵",
+        "type": "根极",
+        "description": "冥界深处，命运交错流淌",
+        "effects": "提升120%闭关加成，80%护甲加持。",
+        "shut_in_bonus": 2.2,
+        "Gai_per_second": 1,
+        "probability": 0.05
+    },
+    {
+        "id": 1016,
+        "name": "混沌仙灵",
+        "type": "根极",
+        "description": "混沌初开，根源浑然一体",
+        "effects": "提升120%闭关加成，80%护甲加持。",
+        "shut_in_bonus": 2.2,
+        "Gai_per_second": 1,
+        "probability": 0.05
+    },
+    {
+        "id": 1017,
+        "name": "琉璃仙灵",
+        "type": "根",
+        "description": "琉璃清透，折射世间幻彩",
+        "effects": "提升80%闭关加成，80%护甲加持。",
+        "shut_in_bonus": 1.8,
+        "Gai_per_second": 1,
+        "probability": 0.05
+    },
+    {
+        "id": 1018,
+        "name": "雷霆仙灵",
+        "type": "根",
+        "description": "雷鸣震怒，释放天罚之力",
+       "effects": "提升80%闭关加成，80%护甲加持。",
+        "shut_in_bonus": 1.8,
+        "Gai_per_second": 1,
+        "probability": 0.05
+    },
+    {
+        "id": 1019,
+        "name": "幽影仙灵",
+        "type": "根",
+        "description": "轻步滑行，幽隐划破宁静",
+       "effects": "提升80%闭关加成，80%护甲加持。",
+        "shut_in_bonus": 1.8,
+        "Gai_per_second": 1,
+        "probability": 0.05
+    },
+    {
+        "id": 1020,
+        "name": "音韵仙灵",
+        "type": "根",
+        "description": "音律缭绕，万物共鸣之声",
+       "effects": "提升80%闭关加成，80%护甲加持。",
+        "shut_in_bonus": 1.8,
+        "Gai_per_second": 1,
+        "probability": 0.05
+    },
+    {
+        "id": 1021,
+        "name": "炼狱仙灵",
+        "type": "根",
+        "description": "焚尽一切，涅槃重铸而生",
+        "effects": "提升80%闭关加成，80%护甲加持。",
+        "shut_in_bonus": 1.8,
+        "Gai_per_second": 1,
+        "probability": 0.05
+    },
+    {
+        "id": 1022,
+        "name": "驭风仙灵",
+        "type": "根",
+        "description": "风行千里，心随风动飞扬",
+       "effects": "提升80%闭关加成，80%护甲加持。",
+        "shut_in_bonus": 1.8,
+        "Gai_per_second": 1,
+        "probability": 0.05
+    },
+    {
+        "id": 1023,
+        "name": "霄剑仙灵",
+        "type": "众极",
+        "description": "剑起青霄，气吞四方之势",
+        "effects": "提升50%闭关加成，50%护甲加持。",
+        "shut_in_bonus": 1.5,
+        "Gai_per_second": 1,
+        "probability": 0.1
+    },
+    {
+        "id": 1024,
+        "name": "苍穹仙灵",
+        "type": "众极",
+        "description": "浩然正气，万物皆纳于怀",
+        "effects": "提升50%闭关加成，50%护甲加持。",
+        "shut_in_bonus": 1.5,
+        "Gai_per_second": 1,
+        "probability": 0.1
+    },
+    {
+        "id": 1025,
+        "name": "冰魄仙灵",
+        "type": "众极",
+        "description": "霜雪锋芒，傲视群雄不顾",
+        "effects": "提升50%闭关加成，50%护甲加持。",
+        "shut_in_bonus": 1.5,
+        "Gai_per_second": 1,
+        "probability": 0.1
+    },
+    {
+        "id": 1026,
+        "name": "墨韵仙灵",
+        "type": "众",
+        "description": "心如止水，独守一份清宁",
+        "effects": "提升30%闭关加成，有概率获得闭关时间加成，50%护甲加持。",
+        "shut_in_bonus": 1.3,
+        "Gai_per_second": 1,
+        "probability": 0.25
+    },
+    {
+        "id": 1027,
+        "name": "血海仙灵",
+        "type": "众",
+        "description": "杀气弥漫，断魂刀影无情",
+        "effects": "提升20%闭关时间加成，有概率获得闭关加成，50%护甲加持。",
+        "shut_in_bonus": 1,
+        "Gai_per_second": 1.2,
+        "probability": 0.25
+    },
+    {
+        "id": 1028,
+        "name": "帷幕仙灵",
+        "type": "众",
+        "description": "冷眼观世，不闻天下是非",
+        "effects": "提升20%闭关加成，10%闭关时间加成，50%护甲加持。",
+        "shut_in_bonus": 1.2,
+        "Gai_per_second": 1.1,
+        "probability": 0.25
+    },
+    {
+        "id": 1029,
+        "name": "满月仙灵",
+        "type": "众",
+        "description": "光辉璀璨，照亮幽暗世间",
+        "effects": "提升20%闭关加成，10%闭关时间加成，50%护甲加持。",
+        "shut_in_bonus": 1.2,
+        "Gai_per_second": 1.1,
+        "probability": 0.25
+    },
+    {
+        "id": 1030,
+        "name": "鬼道仙灵",
+        "type": "众",
+        "description": "阴影缠绕，操控幽魂索命",
+        "effects": "提升20%闭关加成，10%闭关时间加成，50%护甲加持。",
+        "shut_in_bonus": 1.2,
+        "Gai_per_second": 1.1,
+        "probability": 0.25
+    },
+    {
+        "id": 1031,
+        "name": "厨艺仙灵",
+        "type": "凡",
+        "description": "馋死对面也不是不可以。",
+        "effects": "提升10%闭关加成，5%闭关时间加成，20%护甲加持。",
+        "shut_in_bonus": 1.1,
+        "Gai_per_second": 1.05,
+        "probability": 0.5
+    },
+    {
+        "id": 1032,
+        "name": "园艺仙灵",
+        "type": "凡",
+        "description": "仅次于自然的最强植物系仙灵。",
+        "effects": "提升10%闭关加成，5%闭关时间加成，20%护甲加持。",
+        "shut_in_bonus": 1.1,
+        "Gai_per_second": 1.05,
+        "probability": 0.5
+    },
+    {
+        "id": 1032,
+        "name": "摸鱼仙灵",
+        "type": "凡",
+        "description": "摸一会鱼又不会死。",
+        "effects": "提升10%闭关加成，5%闭关时间加成，20%护甲加持。",
+        "shut_in_bonus": 1.1,
+        "Gai_per_second": 1.05,
+        "probability": 0.5
+    },
+    {
+        "id": 1033,
+        "name": "绘画仙灵",
+        "type": "凡",
+        "description": "一笔蛾下红杏点，半枝墨语君自听。",
+        "effects": "提升10%闭关加成，5%闭关时间加成，20%护甲加持。",
+        "shut_in_bonus": 1.1,
+        "Gai_per_second": 1.05,
+        "probability": 0.5
+    },
+    {
+        "id": 1034,
+        "name": "气运仙灵",
+        "type": "凡",
+        "description": "我赌你的枪里没有子弹。",
+        "effects": "提升10%闭关加成，5%闭关时间加成，20%护甲加持。",
+        "shut_in_bonus": 1.1,
+        "Gai_per_second": 1.05,
+        "probability": 0.5
+    },
+    {
+        "id": 1035,
+        "name": "虚无本源（残）",
+        "type": "凡",
+        "description": "五大力量本源之一，遗憾的是受损后你还确定要保留他？",
+        "effects": "提升10%闭关加成，5%闭关时间加成，20%护甲加持。",
+        "shut_in_bonus": 1.1,
+        "Gai_per_second": 1.05,
+        "probability": 0.5
+    },
+    {
+        "id": 1036,
+        "name": "不灭本源（残）",
+        "type": "凡",
+        "description": "五大力量本源之一，遗憾的是受损后你还确定要保留他？",
+        "effects": "提升10%闭关加成，5%闭关时间加成，20%护甲加持。",
+        "shut_in_bonus": 1.1,
+        "Gai_per_second": 1.05,
+        "probability": 0.5
+    },
+    {
+        "id": 1037,
+        "name": "创生本源（残）",
+        "type": "凡",
+        "description": "五大力量本源之一，遗憾的是受损后你还确定要保留他？",
+        "effects": "提升10%闭关加成，5%闭关时间加成，20%护甲加持。",
+        "shut_in_bonus": 1.1,
+        "Gai_per_second": 1.05,
+        "probability": 0.5
+    },
+    {
+        "id": 1038,
+        "name": "毁灭本源（残）",
+        "type": "凡",
+        "description": "五大力量本源之一，遗憾的是受损后你还确定要保留他？",
+        "effects": "提升10%闭关加成，5%闭关时间加成，20%护甲加持。",
+        "shut_in_bonus": 1.1,
+        "Gai_per_second": 1.05,
+        "probability": 0.5
+    },
+    {
+        "id": 1039,
+        "name": "灵魂本源（残）",
+        "type": "凡",
+        "description": "五大力量本源之一，遗憾的是受损后你还确定要保留他？",
+        "effects": "提升10%闭关加成，5%闭关时间加成，20%护甲加持。",
+        "shut_in_bonus": 1.1,
+        "Gai_per_second": 1.05,
+        "probability": 0.5
+    },
+    {
+        "id": 1040,
+        "name": "裁决仙灵",
+        "type": "凡",
+        "description": "一人命于千万人何异！",
+        "effects": "提升10%闭关加成，5%闭关时间加成，20%护甲加持。",
+        "shut_in_bonus": 1.1,
+        "Gai_per_second": 1.05,
+        "probability": 0.5
+    }
+]
