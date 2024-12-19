@@ -1,5 +1,5 @@
 {
-  "name": "xianlingbot",
+  "name": "default-windows",
   "version": "0.0.0",
   "packageManager": "yarn@4.1.0",
   "private": true,
@@ -82,9 +82,8 @@
     "@koishijs/plugin-server-satori": "^2.8.3",
     "@koishijs/plugin-server-temp": "^1.5.0",
     "@koishijs/plugin-status": "^7.4.10",
-    "blockly": "11.2.0-beta.2",
+    "blockly": "12.0.0-beta.0",
     "koishi": "^4.18.3",
-    "koishi-plugin-adapter-onebot": "6.7.4",
     "koishi-plugin-android": "^0.0.1",
     "koishi-plugin-assets-local": "^3.3.2",
     "koishi-plugin-dataview": "^2.6.1",
@@ -94,6 +93,6 @@
     "koishi-plugin-smmcat-localstorage": "0.0.1",
     "koishi-plugin-telemetry": "^0.2.3",
     "koishi-plugin-theme-vanilla": "^1.1.0",
-    "koishi-plugin-word-core": "1.0.14"
+    "koishi-plugin-word-core": "1.0.16"
   }
 }
